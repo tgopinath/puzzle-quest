@@ -1,0 +1,1 @@
+{ "name": "Puzzle Quest", "short_name": "Puzzle Quest", "start_url": "/", "display": "standalone", "orientation": "portrait", "background_color": "#F3F9FF", "theme_color": "#3BA9F5", "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }] }
